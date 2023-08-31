@@ -1,7 +1,1 @@
-
-print('hello')
-
-print("hi akari!")
-print("hi Jaidyn")
-
-print("merging akari to main")
+print("this is akari's branch")
